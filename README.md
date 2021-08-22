@@ -7,10 +7,11 @@
 - 💕 I’m looking to collaborate with other developers
 - `TODO` Master Fullstack web development
 
-### Connect with me
-- <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>[Instagram]
-- <img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" target="_blank"/>[Fiverr]
-- <img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank"/>[What is this]
+### Connect with me 🤝
+- <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>Follow me on [Instagram]
+- <img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" target="_blank"/>Hire me at [Fiverr]
+- <img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank"/>Well well well... [What is this]
+
 <br/>
 <br/>
 
