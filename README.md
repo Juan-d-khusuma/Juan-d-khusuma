@@ -9,7 +9,7 @@
 <br/>
 
 ## <p align="center"><font color="#20232a"> 🌐 Student & Developer</font></p>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-d-khusuma&theme=react"/></p>
+<p align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juan-d-khusuma&layout=compact&langs_count=8&theme=react"/></p>
 
 - <font color="#20232a">Currently studying  at **_SMAN 1 Tembilahan_**</font>
 - <font color="#20232a">Studied front-end development at ![Progate](https://img.shields.io/badge/-Progate-gray?style=flat&logo=progate)</font>
