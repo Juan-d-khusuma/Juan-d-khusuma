@@ -34,7 +34,6 @@
 	<img src="https://img.shields.io/badge/-Angular-gray?style=for-the-badge&logo=Angular" alt="Angular"/>
 	<img src="https://img.shields.io/badge/-Prisma-gray?style=for-the-badge&logo=prisma" alt="Prisma"/>
 	<img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
-	<img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
 	<img src="https://img.shields.io/badge/-PostgresQL-gray?style=for-the-badge&logo=postgresql" alt="PostgresQL"/>
 	<img src="https://img.shields.io/badge/-Railway-gray?style=for-the-badge&logo=railway" alt="Railway"/>
 	<img src="https://img.shields.io/badge/-Firebase-gray?style=for-the-badge&logo=firebase" alt="Firebase"/>
