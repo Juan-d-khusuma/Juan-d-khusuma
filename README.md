@@ -42,7 +42,8 @@
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-d-khusuma&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></p>
  <p align="center"><img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-d-khusuma&theme=react"></p>
-
+<p align="center"><img alt="Juan D Khusuma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juan-d-khusuma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
  
 ## <p align="center">📱 Contacts</p>
 <p align="center">
