@@ -6,9 +6,9 @@
 
 ## <p align="center"><font color="#20232a"> 👋 Halo</font></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juan-d-khusuma&label=Profile%20views&color=0e75b6&style=flat" alt="Juan-d-khusuma" />
-  <a href="https://github.com/juan-d-khusuma?tab=followers">
-    <img src="https://img.shields.io/github/followers/juan-d-khusuma?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=juankhusuma&label=Profile%20views&color=0e75b6&style=flat" alt="juankhusuma" />
+  <a href="https://github.com/juankhusuma?tab=followers">
+    <img src="https://img.shields.io/github/followers/juankhusuma?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 
 ## <p align="center"><font color="#20232a"> 🌐 Student & Developer</font></p>
-<p align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juan-d-khusuma&layout=compact&langs_count=8&theme=react"/></p>
+<p align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juankhusuma&layout=compact&langs_count=8&theme=react"/></p>
 
 - <font color="#20232a">Currently studying  at **_SMAN 1 Tembilahan_**</font>
 - <font color="#20232a">Studied front-end development at ![Progate](https://img.shields.io/badge/-Progate-gray?style=flat&logo=progate)</font>
@@ -40,9 +40,9 @@
 	<img src="https://img.shields.io/badge/-Firebase-gray?style=for-the-badge&logo=firebase" alt="Firebase"/>
 </p>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-d-khusuma&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></p>
- <p align="center"><img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-d-khusuma&theme=react"></p>
-<p align="center"><img alt="Juan D Khusuma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juan-d-khusuma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=juankhusuma&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></p>
+ <p align="center"><img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=juankhusuma&theme=react"></p>
+<p align="center"><img alt="Juan D Khusuma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=juankhusuma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </p>
  
 ## <p align="center">📱 Contacts</p>
